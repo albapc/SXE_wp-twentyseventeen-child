@@ -1,6 +1,6 @@
 <?php
 /**
-* Template Name: Template Nuevo
+* Template Name: Template Complejo
 * Template Post Type: page
 *
 * @package WordPress
@@ -33,4 +33,4 @@ get_header(); ?>
 </div><!-- .wrap -->
 
 <?php
-get_footer();
+get_footer("complejo");
