@@ -18,7 +18,7 @@
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
-				<h1>FOOTER COMPLEJO</h1>
+				<h1 class="complejo">FOOTER COMPLEJO</h1>
 				<?php
 				get_template_part( 'template-parts/footer/footer', 'widgets' );
 

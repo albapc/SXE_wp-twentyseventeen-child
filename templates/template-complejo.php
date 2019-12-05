@@ -4,16 +4,16 @@
 * Template Post Type: page
 *
 * @package WordPress
-* @subpackage Twenty_Fourteen
-* @since Twenty Fourteen 1.0
+* @subpackage Twenty_Seventeen
+* @since Twenty Seventeen 1.0
 */
 
 get_header(); ?>
 
-<div class="wrap">
+<div class="wrap" id="complejo">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-			<h1>Paginas</h1>
+			<h1 class="complejo">Paginas</h1>
 			<?php
 			while ( have_posts() ) :
 				the_post();

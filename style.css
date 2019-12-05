@@ -11,3 +11,20 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyseventeenchild
 */
+
+
+/* Poner los links en naranja */
+a { text-decoration: none; color: #EFB871; }
+a:hover { text-decoration: underline; }
+
+.complejo { 
+ color: orange; 
+ font-weight: bold; 
+}
+
+#complejo {
+ border-style: solid;
+ border-width: thick;
+ border-color: #ff8ba7;
+}
+ 

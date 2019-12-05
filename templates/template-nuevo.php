@@ -4,8 +4,8 @@
 * Template Post Type: page
 *
 * @package WordPress
-* @subpackage Twenty_Fourteen
-* @since Twenty Fourteen 1.0
+* @subpackage Twenty_Seventeen
+* @since Twenty Seventeen 1.0
 */
 
 get_header(); ?>
